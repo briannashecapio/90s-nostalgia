@@ -43,6 +43,19 @@ nav {
     list-style-type: none;
 }
 
+a.one:link {
+    background-color: white;
+}
+
+a:hover {
+    color: purple;
+}
+
+a:focus {
+    border: 2px;
+    color: purple;
+}
+
 .section-hero {
     width: 100%;
     padding-top: 10em;
@@ -68,13 +81,20 @@ h1 {
     background-color: rgba(red, green, blue, alpha);
 }
 
+.section-trends {
+    background-color: purple;
+}
+
 caption {
     color: white;
     font-style: italic;
 }
 
-.section-trends {
-    background-color: purple;
+.section-icon {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 footer {
