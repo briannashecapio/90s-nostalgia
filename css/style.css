@@ -23,3 +23,19 @@ img {
     text-align: center;
 }
 
+.wrapper {
+    max-width: 900px;
+    margin-top: 0px;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    padding-left: 0em;
+    padding-right: 0em;
+}
+
+header {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    padding-left: 0em;
+    padding-right: 0em;
+}
+
